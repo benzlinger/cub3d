@@ -1,3 +1,5 @@
+Project done with [@eschirni](https://github.com/eschirni) -> [Original repo](https://github.com/eschirni/cub3d).
+
 <p align="center">
 <img src="./img/luci.gif" width=15%>
 </p>
